@@ -7,7 +7,7 @@ To view a full listing of the videos in this tutorial series with links to their
 
 desciption here...
 
-You can find this part of the basic modding tutorial on YouTube here: [https://www.youtube.com/watch?v=Rk60VL4t1O0](https://www.youtube.com/watch?v=Rk60VL4t1O0)
+You can find this part of the basic modding tutorial on YouTube here: [https://youtu.be/YrFsQaUGZ-0](https://youtu.be/YrFsQaUGZ-0)
 
 ### Important links
 
