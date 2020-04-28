@@ -1,38 +1,22 @@
 # Minecraft 1.15.2 - Basic Modding Tutorial
 
-This repository contains the source code behind my YouTube video tutorial series for Minecraft 1.15.2 basic modding.
+This branch contains the state of play after completing the the second video in the tutorial series, adding custom items.
+To view a full listing of the videos in this tutorial series with links to their corresponding branches, [go here](https://github.com/ShaneYu/mc-1.15.2-modding-tutorial-basic).
 
-You can find the YouTube playlist for this tutorial series here: [https://www.youtube.com/playlist?list=PLudysmTo14Iag1__M2Y81nHsr2Vxz4XDB](https://www.youtube.com/playlist?list=PLudysmTo14Iag1__M2Y81nHsr2Vxz4XDB)
+## Custom Items
 
-## Basic tutorials
+The second video, adding custom items, we add two materials which will be used in future videos in this series.
 
-1. Workspace Setup
-    * **YouTube video:** [https://www.youtube.com/watch?v=BOx2zlK8LTU](https://www.youtube.com/watch?v=BOx2zlK8LTU)
-    * **Source code:** [https://github.com/ShaneYu/mc-1.15.2-modding-tutorial-basic/tree/basics/workspace-setup](https://github.com/ShaneYu/mc-1.15.2-modding-tutorial-basic/tree/basics/workspace-setup)
-2. Custom Items
-    * _Coming soon_
-3. Custom Blocks
-    * _Coming soon_
-4. Crafting recipes
-    * _Coming soon_
-5. Smelting recipes
-    * _Coming soon_
-6. Custom tools
-    * _Coming soon_
-7. Custom armor
-    * _Coming soon_
-8. Food and effects
-    * _Coming soon_
-9. Custom ore generation
-    * _Coming soon_
-10. Exporting your mod
-    * _Coming soon_
+You can find this part of the basic modding tutorial on YouTube here: _coming soon_
 
-## Advanced tutorials
+### Resources
 
-_If people like my basic modding tutorials, I will be releasing a series of "advanced" modding tutorials that will include things like creating an electric furnace etc._
+- Textures
+  - [Naquadah Dust](https://raw.githubusercontent.com/ShaneYu/mc-1.15.2-modding-tutorial-basic/basics/custom-items/src/main/resources/assets/tutorialmod/textures/item/dust_naquadah.png)
+  - [Naquadah Ingot](https://raw.githubusercontent.com/ShaneYu/mc-1.15.2-modding-tutorial-basic/basics/custom-items/src/main/resources/assets/tutorialmod/textures/item/ingot_naquadah.png)
 
-## Mod integration tutorials
+### Useful links
 
-_If people like my advanced modding tutorials, I will be releasing some mini modding tutorials for mod integrations. For example, integrations with OpenComputers, TinkersConstruct and Applied Energistics 2._
-
+- [MC Forge Docs: Items](https://mcforge.readthedocs.io/en/latest/items/items/)
+- [MC Forge Docs: Registries](https://mcforge.readthedocs.io/en/latest/concepts/registries/)
+- [MC Forge Docs: Language Files](https://mcforge.readthedocs.io/en/latest/concepts/internationalization/#language-files)
