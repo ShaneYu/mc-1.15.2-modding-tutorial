@@ -7,7 +7,7 @@ To view a full listing of the videos in this tutorial series with links to their
 
 The second video, adding custom items, we add two materials which will be used in future videos in this series.
 
-You can find this part of the basic modding tutorial on YouTube here: _coming soon_
+You can find this part of the basic modding tutorial on YouTube here: [https://youtu.be/a0XNwW-DtHI](https://youtu.be/a0XNwW-DtHI)
 
 ### Resources
 
