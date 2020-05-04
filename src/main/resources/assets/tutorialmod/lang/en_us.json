@@ -1,5 +1,6 @@
 {
-  "itemGroup.tutorialmod_materials": "Tutorial Mod: Materials",
+  "itemGroup.tutorialmod_materials": "Tutorial Mod",
+
   "item.tutorialmod.dust_naquadah": "Naquadah Dust",
   "item.tutorialmod.ingot_naquadah": "Naquadah Ingot"
 }
